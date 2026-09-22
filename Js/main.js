@@ -771,7 +771,7 @@ window.addEventListener('DOMContentLoaded', () => {
   if (params.loading) {
     loadingText = params.loading;
   } else {
-    loadingText = "Para ti Evelyn";
+    loadingText = "Para ti Loly";
   }
 
   setCarta3D(0);
